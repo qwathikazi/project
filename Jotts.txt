@@ -1,0 +1,4 @@
+help("modules")
+    typing this gives you all the modules which python has and that you have access too
+    you can also go to the python official documentation website
+
